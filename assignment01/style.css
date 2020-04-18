@@ -1,0 +1,18 @@
+body {
+    background: url(coffee_background.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.ima {
+    color: azure;
+    text-align: center;
+    margin-top: 15%;
+    letter-spacing: -.05em;
+    line-height: 1.2em;
+    font-family: 'Baloo Da 2', cursive;
+}
+
+.ime {
+    height: 100px;
+    width: 200px;
+}
